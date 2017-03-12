@@ -1,2 +1,3 @@
 # hello-world
-Start a New Project
+Hi Git
+This project is created for learning the concept of the github
